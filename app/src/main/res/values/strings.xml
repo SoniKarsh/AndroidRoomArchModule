@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoSqlModule</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_birth_date">Enter Birth Date</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+</resources>
